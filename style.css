@@ -57,6 +57,7 @@ body {
 
 main {
   margin-top: 80px;
+  margin-left: 50px;
   padding: 20px;
   background-color: #000;
 }
@@ -141,6 +142,7 @@ footer .copyright {
   border-top: 1px solid #333;
   padding-top: 10px;
 }
+
 
 
 
